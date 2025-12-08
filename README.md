@@ -1,4 +1,5 @@
-# FYP Conversational Orchestrator - Starter Repo
-
-This repository contains the backend starter for the Conversational Orchestrator (AWS Lambda-style Python).
-The code is defensive so you can push without AWS credentials; the AWS bits will be used later.
+Module 3 — Conversational Orchestrator
+This branch contains Module-3 implementation (backend orchestrator + frontend).
+Local run:
+- Backend: placeholder in orchestrator_lambda/
+- Frontend: cd frontend && npm install && npm run dev
